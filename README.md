@@ -11,7 +11,7 @@
    ```bash
    
    https://github.com/estebanPerezH/secretFriend.git
-   ```bash
+   
   
 Abre el archivo index.html en tu navegador.
 Uso
