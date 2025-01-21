@@ -7,12 +7,10 @@
 ## Instalación
 
 1. Clona este repositorio:
-1. Clona este repositorio:
    ```bash
    
    https://github.com/estebanPerezH/secretFriend.git
-   
-  
+     
 Abre el archivo index.html en tu navegador.
 Uso
 Agregar Amigos: Escribe un nombre y haz clic en Añadir.
